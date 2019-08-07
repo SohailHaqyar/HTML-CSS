@@ -1,0 +1,44 @@
+body {
+    background-color:	#282828;
+    color: #3500d3;
+    font-family: 'Eagle Lake', cursive;
+
+    
+}
+.intro
+{
+    padding-top: 20px;
+    padding-bottom:
+    90px;
+    position: relative;
+    left: 200px;
+   
+
+}
+.intro img
+{
+    width: 550px;
+    height: 30em;
+    float: left;
+    position: absolute;
+    left: 899px;
+  
+    
+}
+.intro h1
+{
+    font-size:90px;
+    font-style:italic;
+    color: #0c0032
+}
+.intro p
+{color:#240090;
+font-size:
+20px;
+}
+*{padding: 4px;
+margin: 10px;
+}
+.info {
+    font-size:25px;}
+
